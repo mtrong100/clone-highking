@@ -2,6 +2,7 @@
   "name": "highking-web",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://mtrong100.github.io/highking-clone",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -16,9 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeply": "react-scripts build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
