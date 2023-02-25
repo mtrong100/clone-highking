@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/clone-highking/static/css/main.5b874df2.css",
+    "main.js": "/clone-highking/static/js/main.75ea91c6.js",
+    "static/media/Hero.png": "/clone-highking/static/media/Hero.2dc0c65c4e24b1bb1375.png",
+    "static/media/human_2.png": "/clone-highking/static/media/human_2.5bfe8e04803a8f9ff491.png",
+    "static/media/human_7.png": "/clone-highking/static/media/human_7.8e782aa907bbc8fdedb2.png",
+    "static/media/human_5.png": "/clone-highking/static/media/human_5.3eae87e68e5b066ddadd.png",
+    "static/media/Background.png": "/clone-highking/static/media/Background.1721a36d333e7ff792cf.png",
+    "static/media/human_4.png": "/clone-highking/static/media/human_4.c5fd19f27d64f3803c1d.png",
+    "static/media/img1_1.jpg": "/clone-highking/static/media/img1_1.7618d2314fb98461016b.jpg",
+    "static/media/img3_1.jpg": "/clone-highking/static/media/img3_1.136389dd6f16d3612486.jpg",
+    "static/media/img2_1.jpg": "/clone-highking/static/media/img2_1.d539cfa47590a031da4a.jpg",
+    "static/media/human_3.png": "/clone-highking/static/media/human_3.738683121f7385b3883b.png",
+    "static/media/avatar.png": "/clone-highking/static/media/avatar.fe1e7ca78ce2d3803d93.png",
+    "static/media/com-3.png": "/clone-highking/static/media/com-3.ae550a183947240246fa.png",
+    "static/media/com-1.png": "/clone-highking/static/media/com-1.583f4cac08514e20c011.png",
+    "static/media/com-2.png": "/clone-highking/static/media/com-2.d8db155b9ccc4fe81c7d.png",
+    "static/media/icon-1.png": "/clone-highking/static/media/icon-1.a09de9105d382fc47f4f.png",
+    "static/media/com-5.png": "/clone-highking/static/media/com-5.34160b0531b778a4af27.png",
+    "static/media/com-4.png": "/clone-highking/static/media/com-4.45fa9277b9acdf9b1246.png",
+    "index.html": "/clone-highking/index.html",
+    "main.5b874df2.css.map": "/clone-highking/static/css/main.5b874df2.css.map",
+    "main.75ea91c6.js.map": "/clone-highking/static/js/main.75ea91c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b874df2.css",
+    "static/js/main.75ea91c6.js"
+  ]
+}
